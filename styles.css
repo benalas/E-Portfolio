@@ -230,6 +230,7 @@ nav {
 .about-me__img {
     width: 100%;
     margin-top: 20px;
+    animation: fade-in 1200ms 800ms backwards;
 }
 
 @keyframes fade-in {
